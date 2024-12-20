@@ -1,4 +1,4 @@
-# Grub Themes and Files
+# Custom Plymouth Theme
 
 ## About
 
