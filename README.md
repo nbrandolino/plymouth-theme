@@ -1,4 +1,4 @@
-# Custom Plymouth Theme
+# Plymouth Theme
 This repository holds my custom plymouth theme.
 
 ## Themes
